@@ -1,76 +1,90 @@
 
-<h1 align="center">⚡ AASHISH KUMAR JHA ⚡</h1>
+<div align="center">
 
-<h3 align="center">🔐 Cybersecurity Student | Aspiring Ethical Hacker</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FF7,100:00FF87&height=220&section=header&text=AASHISH%20KUMAR%20JHA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20ETHICAL%20HACKING&descAlignY=55&descSize=17" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Learning+Cybersecurity+%F0%9F%94%90;Exploring+Ethical+Hacking;Building+My+Digital+Future+%F0%9F%9A%80" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+Digital+World;BCA+Cyber+Security+Student;Aspiring+Ethical+Hacker;Learning+%7C+Building+%7C+Securing" />
+
+</div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+<h2 align="center">💫 ABOUT ME</h2>
 
-- 🎓 BCA Cyber Security Student
+<p align="center">
+🔐 Cybersecurity Enthusiast • 💻 Developer • 🚀 Lifelong Learner
+</p>
+
+- 🎓 Pursuing BCA in Cyber Security
 - 🔐 Aspiring Ethical Hacker
 - 💻 Learning C Programming & Python
 - 🐧 Exploring Linux & Networking
 - 🌐 Interested in Web Security
-- 🚀 Building my cybersecurity skills every day
+- 🎯 Working towards a Cybersecurity career
 
 ---
 
-## 🛠️ TECH STACK
+<h2 align="center">⚡ MY TECH ARSENAL</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-00C853?style=for-the-badge&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-7B2FF7?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-00B8D9?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 CURRENTLY LEARNING
+<h2 align="center">🚀 MY PROJECTS</h2>
 
-- Ethical Hacking
-- Computer Networking
-- Linux Administration
-- Python Programming
-- Cybersecurity Fundamentals
-
----
-
-## 🚀 MY PROJECTS
-
-| Project | Description |
+| 🔥 Project | 💡 Description |
 |---|---|
-| C Programming | C language practice |
-| Python Projects | Beginner Python projects |
-| Cyber Aashish Academy | Cybersecurity education app |
-| Cybersecurity Labs | Legal security practice |
+| C Programming | Programming practice |
+| Python Projects | Mini Python applications |
+| Cyber Aashish Academy | Cybersecurity learning app |
+| Cybersecurity Labs | Legal security experiments |
 
 ---
 
-## 📊 GITHUB STATISTICS
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aashishjhatech&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishjhatech&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+<h2 align="center">🎯 MY 2026 MISSION</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aashishjhatech&show_icons=true&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishjhatech&layout=compact&theme=chartreuse-dark" />
+🔹 Master C & Python<br/>
+🔹 Learn Linux & Networking<br/>
+🔹 Practice Ethical Hacking<br/>
+🔹 Build Real-World Projects<br/>
+🔹 Prepare for Cybersecurity Internships
 </p>
 
 ---
 
-## 🐍 MY CONTRIBUTION GRAPH
+<h2 align="center">🔗 CONNECT WITH ME</h2>
 
 <p align="center">
-<img src="https://github.com/Aashishjhatech/Aashishjhatech/blob/output/github-contribution-grid-snake.svg" />
+<a href="https://github.com/Aashishjhatech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
-
----
 
 <h3 align="center">🔐 LEARN • BUILD • SECURE • REPEAT</h3>
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FF7,100:00FF87&height=110&section=footer"/>
+
+</div>
