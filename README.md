@@ -82,7 +82,9 @@
 </p>
 
 <h3 align="center">🔐 LEARN • BUILD • SECURE • REPEAT</h3>
+## 🐍 GitHub Contribution Snake
 
+![Snake Animation](https://raw.githubusercontent.com/Aashishjhatech/Aashishjhatech/output/github-contribution-grid-snake.svg)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FF7,100:00FF87&height=110&section=footer"/>
